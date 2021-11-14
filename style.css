@@ -1,0 +1,110 @@
+
+.welcome{
+    
+    background-color:#CAF7E3;
+    color:#4A403A;
+    position:relative;
+    
+    margin:0 auto 0 auto;
+     
+    height:100vh;
+}
+.cloud2
+{
+    position:absolute;
+}
+.cloud1
+{
+    position:relative;
+    top:40px;
+    left:280px;
+}
+.mountain
+{
+    position: relative;
+    height:420px;
+    width:700px;
+    
+}
+.dp
+{
+  
+    height:250px;
+    width:250px;
+    margin:20px auto;
+}
+.code
+{
+    height:100px;
+    width:100px;
+   /* margin:40px auto;*/
+    float:left;
+    margin:auto;
+   
+}
+.html
+{
+    height:100px;
+    width:100px;
+    float:right;
+    margin:auto;
+}
+h1{
+    font-family: papyrus;
+    font-size: 500%;
+}
+h2{
+    font-family: verdana;
+ 
+}
+.greet{
+    color:#39311D;
+    width:50%;
+    margin:auto;
+}
+body{
+    text-align:center;
+    align-items: center;
+    margin:0;
+}
+.about1
+{
+    margin-left:300px;
+    margin-top:50px;
+}
+/*.code
+{
+    margin:auto;
+    float:left;
+}*/
+.coder
+{
+    text-align:left;
+}
+.about2
+{
+    margin-right:700px;
+    margin-top:50px;
+    margin-left:300px;
+    text-align:left;
+    margin-bottom:400px;
+}
+.about3{
+    margin:0;
+    background-color: turquoise;
+    height:80px;
+    padding-top:20px;
+    
+}
+.ln
+{
+    color:#2F86A6;
+    margin-left:30px;
+    text-decoration:none ;
+}
+.ln:hover{
+    color: white;
+}
+
+ 
+ 
